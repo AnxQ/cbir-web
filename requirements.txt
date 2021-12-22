@@ -1,0 +1,6 @@
+faiss==1.7.1
+Flask==2.0.2
+Flask_Cors==3.0.10
+mmcv_full==1.4.1
+timm==0.3.2
+

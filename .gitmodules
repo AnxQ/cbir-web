@@ -1,0 +1,6 @@
+[submodule "mmclassification"]
+	path = mmclassification
+	url = https://github.com/open-mmlab/mmclassification
+[submodule "cbir-front"]
+	path = cbir-front
+	url = https://github.com/AnxQ/cbir-front
